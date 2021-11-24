@@ -1,4 +1,4 @@
-<img align="left" width="180" height="180" alt="Aakash" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="left" width="200" height="200" alt="Aakash" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 <h1 align="left">👨‍💻 Aakash Bhalani</h1>
 
@@ -7,6 +7,7 @@
   </samp>
   </p>
 <br> <br>
+<br>
  <hr>
  
  ## &#x1f4c8; GitHub Stats
