@@ -27,9 +27,12 @@
 
 <hr>
 
+<br> <br>
+
  <a href="https://github.com/Aakash1121/Aakash1121">
   <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash1121&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&border_color=FFFF00" />
-
+	
+	
 <table>
   <tr >
       <td>
