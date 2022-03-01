@@ -3,8 +3,10 @@
 <h1 align="left">👨‍💻 Aakash Bhalani</h1>
 
 <p align="left">
-  <samp>A self taught Android development enthusiast.
-  </samp>
+  <samp> :iphone: Java and Android developer Enthusiast.</samp>
+	<br/>
+  <samp> :chains: Currently learning Blockchain development.</samp>
+
   </p>
 <br> <br>
 <br>
@@ -49,7 +51,7 @@
 	 </td>
 		<td>
 			<!--  Connect With Me -->
-			<a href="https://twitter.com/aakash_bhalani" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakash_bhalani" height="30" width="40" /></a><a href="https://linkedin.com/in/aakashbhalani" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashbhalani" height="30" width="40" /></a><a href="https://instagram.com/aakash.bhalani" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash.bhalani" height="30" width="40" /></a><a href="https://www.leetcode.com/aakashbhalani3476" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashbhalani3476" height="30" width="40" /></a><a href="https://discord.gg/8128" target="blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8128" height="30" width="40" /></a>
+			<a href="https://twitter.com/aakash_bhalani" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakash_bhalani" height="30" width="40" /></a><a href="https://linkedin.com/in/aakashbhalani" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashbhalani" height="30" width="40" /></a><a href="https://instagram.com/aakash.bhalani" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash.bhalani" height="30" width="40" /></a><a href="https://leetcode.com/aakashbhalani3476/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashbhalani3476" height="30" width="40" /></a><a href="https://discord.gg/8128" target="blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8128" height="30" width="40" /></a>
 		</td>
    
 </table>
