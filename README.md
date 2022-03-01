@@ -12,12 +12,12 @@
  
  ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Aakash1121/NewsArticles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=NewsArticles&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
+<a href="https://github.com/Aakash1121/APID-web-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=APID-web-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
 </a>
 
-<a href="https://github.com/Aakash1121/WeatherForecast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=WeatherForecast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
+<a href="https://github.com/Aakash1121/TMDBClient">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=TMDBClient&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
 </a>  
 
 </a>
