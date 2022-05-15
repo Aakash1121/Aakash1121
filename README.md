@@ -12,7 +12,7 @@
 <br>
  <hr>
  
- ## &#x1f4c8; Recent Projects and GitHub Stats
+ ## :open_file_folder: Recent Projects
 
 <a href="https://github.com/Aakash1121/APID-web-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=api_directory&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
@@ -30,7 +30,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=WeatherForecast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
 </a>  
 
-</a>
+<br>
+
+## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Aakash1121/Aakash1121">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aakash1121&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" alt="Martin's GitHub Stats" />
 </a>
