@@ -3,23 +3,31 @@
 <h1 align="left">👨‍💻 Aakash Bhalani</h1>
 
 <p align="left">
-  <samp> :iphone: Java and Android developer Enthusiast.</samp>
+  <samp> :iphone: Java and Android developer.</samp>
 	<br/>
-  <samp> :chains: Currently learning Blockchain development.</samp>
+  <samp> :chains: Blockchain development Enthusiast.</samp>
 
   </p>
 <br> <br>
 <br>
  <hr>
  
- ## &#x1f4c8; GitHub Stats
+ ## &#x1f4c8; Recent Projects and GitHub Stats
 
 <a href="https://github.com/Aakash1121/APID-web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=APID-web-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=api_directory&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
+</a>
+
+<a href="https://github.com/Aakash1121/APID-web-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=Trip_Memories&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
 </a>
 
 <a href="https://github.com/Aakash1121/TMDBClient">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=TMDBClient&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
+</a>  
+
+<a href="https://github.com/Aakash1121/TMDBClient">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=WeatherForecast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
 </a>  
 
 </a>
@@ -32,7 +40,7 @@
  <a href="https://github.com/Aakash1121/Aakash1121">
   <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash1121&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&border_color=FFFF00" />
 	
-<br> <br>
+
 	
 <table>
   <tr >
