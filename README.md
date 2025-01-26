@@ -3,7 +3,7 @@
 <h1 align="left">👨‍💻 Aakash Bhalani</h1>
 
 <p align="left">
-  <samp> Full Stack Developer | DevOps | AWS | MERN </samp>
+  <samp>&nbspFull Stack Developer | DevOps | AWS | MERN </samp>
 	<br/>
 
   </p>
