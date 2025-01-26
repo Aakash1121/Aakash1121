@@ -3,9 +3,8 @@
 <h1 align="left">👨‍💻 Aakash Bhalani</h1>
 
 <p align="left">
-  <samp> :iphone: Java and Android developer.</samp>
+  <samp> :iphone: Full Stack Developer | DevOps | AWS | MERN </samp>
 	<br/>
-  <samp> :chains: Blockchain development Enthusiast.</samp>
 
   </p>
 <br> <br>
