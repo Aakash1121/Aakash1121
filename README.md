@@ -13,19 +13,19 @@
  
  ## :open_file_folder: Recent Projects
 
-<a href="https://github.com/Aakash1121/APID-web-app">
+<a href="https://github.com/whizstream-aakash/whizstream-video-sqsprocessor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=api_directory&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
 </a>
 
-<a href="https://github.com/Aakash1121/APID-web-app">
+<a href="https://github.com/Aakash1121/ScanTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=Trip_Memories&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
 </a>
 
-<a href="https://github.com/Aakash1121/TMDBClient">
+<a href="https://github.com/whizstream-aakash/whizsteam-transcoder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=TMDBClient&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
 </a>  
 
-<a href="https://github.com/Aakash1121/TMDBClient">
+<a href="https://github.com/Aakash1121/Philbrick_Sols">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=WeatherForecast&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
 </a>  
 
