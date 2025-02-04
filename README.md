@@ -11,30 +11,11 @@
 <br>
  <hr>
  
- ## :open_file_folder: Recent Projects
 
-<a href="https://github.com/whizstream-aakash/whizstream-video-sqsprocessor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=whizstream-video-sqsprocessor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
-</a>
-
-<a href="https://github.com/Aakash1121/ScanTable">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=ScanTable&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
-</a>
-
-<a href="https://github.com/whizstream-aakash/whizsteam-transcoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=whizsteam-transcoder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
-</a>  
-
-<a href="https://github.com/Aakash1121/Philbrick_Sols">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash1121&repo=Philbrick_Sols&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" />
-</a>  
-
-<br>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Aakash1121/Aakash1121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aakash1121&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" alt="Martin's GitHub Stats" />
-</a>
+<a href="https://github.com/Aakash1121">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aakash1121&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=0062FF" alt="Aakash1121's GitHub S
 
 <hr>
 
